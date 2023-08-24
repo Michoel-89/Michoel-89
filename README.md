@@ -4,12 +4,13 @@ Hi 👋 My name is Michoel Rivkin
 Full Stack Software Engineer
 ----------------------------
 
-* 🌍  I'm based in Brooklyn, New York
-* 🚀  I'm currently working on [Fit-Tracker](https://github.com/Michoel-89/Fit-Tracker)
+* 🌍  Based in Brooklyn, New York
+* 🚀  Currently working on [Fit-Tracker](https://github.com/Michoel-89/Fit-Tracker)
+* 🏈  New York Giants Fan
+* 📉>  Stock Market Researcher
 * 🤝  I'm open to collaborating on any interesting projects that you may have.
 * ✉️  You can contact me at [michoelr111@gmail.com](mailto:michoelr111@gmail.com)
 
-I’m currently building a fitness website called fit-tracker
 <!--
 **Michoel-89/Michoel-89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
