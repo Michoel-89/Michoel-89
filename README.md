@@ -7,7 +7,7 @@ Full Stack Software Engineer
 * 🌍  Based in Brooklyn, New York
 * 🚀  Currently working on [Fit-Tracker](https://github.com/Michoel-89/Fit-Tracker)
 * 🏈  New York Giants Fan
-* 📉>  Stock Market Researcher
+* 📉  Stock Market Researcher
 * 🤝  I'm open to collaborating on any interesting projects that you may have.
 * ✉️  You can contact me at [michoelr111@gmail.com](mailto:michoelr111@gmail.com)
 
