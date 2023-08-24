@@ -9,7 +9,7 @@ Full Stack Software Engineer
 * 🏈  New York Giants Fan
 * 📉  Stock Market Researcher
 * 🤝  Open to collaborating on any interesting projects that you may have.
-* ✉️  You can contact me at [michoelr111@gmail.com](michoelr111@gmail.com)
+* ✉️  Contact me at [michoelr111@gmail.com](michoelr111@gmail.com)
 * 🔗  Connect with me on [linkedin](https://www.linkedin.com/in/michoel-rivkin-9a232126a/)
 
 <!--
