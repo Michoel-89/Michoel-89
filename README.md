@@ -1,4 +1,13 @@
-### Hi there 👋 I'm Michoel a Full Stack Software Engineer
+Hi 👋 My name is Michoel Rivkin
+===============================
+
+Full Stack Software Engineer
+----------------------------
+
+* 🌍  I'm based in Brooklyn, New York
+* ✉️  You can contact me at [michoelr111@gmail.com](mailto:michoelr111@gmail.com)
+* 🚀  I'm currently working on [Fit-Tracker](https://github.com/Michoel-89/Fit-Tracker)
+* 🤝  I'm open to collaborating on any interesting projects that you may have
 
 I’m currently building a fitness website called fit-tracker
 <!--
