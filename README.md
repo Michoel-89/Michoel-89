@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Michoel a Full Stack Software Engineer
 
 <!--
 **Michoel-89/Michoel-89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
