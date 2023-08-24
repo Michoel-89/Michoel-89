@@ -10,7 +10,7 @@ Full Stack Software Engineer
 * 📉  Stock Market Researcher
 * 🤝  Open to collaborating on any interesting projects that you may have.
 * ✉️  You can contact me at [michoelr111@gmail.com](michoelr111@gmail.com)
-* 🤝  Connect with me on [linkedin](https://www.linkedin.com/in/michoel-rivkin-9a232126a/)
+* 🔗  Connect with me on [linkedin](https://www.linkedin.com/in/michoel-rivkin-9a232126a/)
 
 <!--
 **Michoel-89/Michoel-89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
