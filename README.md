@@ -1,5 +1,6 @@
 ### Hi there 👋 I'm Michoel a Full Stack Software Engineer
 
+I’m currently building a fitness website called fit-tracker
 <!--
 **Michoel-89/Michoel-89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
