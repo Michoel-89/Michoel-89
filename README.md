@@ -3,7 +3,10 @@ Hi 👋 My name is Michoel Rivkin
 
 Full Stack Software Engineer
 ----------------------------
-
+* skills: <img src="icons/python-icon.png" alt="Python" width="50" height="50">
+<img src="icons/javascript-icon.png" alt="JavaScript" width="50" height="50">
+<img src="icons/react-icon.png" alt="React" width="50" height="50">
+<img src="icons/flask-icon.png" alt="Flask" width="50" height="50">
 * 🌍  Based in Brooklyn, New York
 * 💻  Currently working on [Fit-Tracker](https://github.com/Michoel-89/Fit-Tracker)
 * 🏈  New York Giants Fan
