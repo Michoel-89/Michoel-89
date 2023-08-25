@@ -1,8 +1,9 @@
 Hi 👋 My name is Michoel Rivkin
 ===============================
 
-* 🌍  Based in Brooklyn, New York
+
 * 👨‍💻  Full Stack Software Engineer
+* 🌍  Based in Brooklyn, New York
 * 💻  Currently working on [Fit-Tracker](https://github.com/Michoel-89/Fit-Tracker)
 * 🏈  New York Giants Fan
 * 📉  Stock Market Researcher
