@@ -7,7 +7,7 @@ Hi 👋 My name is Michoel Rivkin
 * 💻  Currently working on [Fit-Tracker](https://github.com/Michoel-89/Fit-Tracker)
 * 🏈  New York Giants Fan
 * 📉  Stock Market Researcher
-* 🤝  Open to collaborating on any interesting projects that you may have.
+* 🤝  Looking for open source projects to contribute to.
 * ✉️  Contact me at [michoelr111@gmail.com](michoelr111@gmail.com)
 * 🔗  Connect with me on [linkedin](https://www.linkedin.com/in/michoel-rivkin-9a232126a/)
 
