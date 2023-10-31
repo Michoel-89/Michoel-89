@@ -4,7 +4,7 @@ Hi 👋 My name is Michoel Rivkin
 
 * 👨‍💻  Full Stack Software Engineer
 * 🌍  Based in Brooklyn, New York
-* 💻  Currently working on [Fit-Tracker](https://github.com/Michoel-89/Fit-Tracker)
+* 💻  Currently learning Java
 * 🏈  New York Giants Fan
 * 📉  Stock Market Researcher
 * 🤝  Looking for open source projects to contribute to.
