@@ -5,8 +5,6 @@ Hi 👋 My name is Michoel Rivkin
 * 👨‍💻  Full Stack Software Engineer
 * 🌍  Based in Brooklyn, New York
 * 💻  Currently learning Java
-* 🏈  New York Giants Fan
-* 📉  Stock Market Researcher
 * 🤝  Looking for open source projects to contribute to.
 * ✉️  Contact me at [michoelr111@gmail.com](michoelr111@gmail.com)
 * 🔗  Connect with me on [linkedin](https://www.linkedin.com/in/michoel-rivkin-9a232126a/)
