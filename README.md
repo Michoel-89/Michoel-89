@@ -6,7 +6,6 @@ Hi 👋 My name is Michoel Rivkin
 * 🌍  Based in Brooklyn, New York
 * 💻  Currently learning Java
 * 🤝  Looking for open source projects to contribute to.
-* ✉️  Contact me at [michoelr111@gmail.com](michoelr111@gmail.com)
 * 🔗  Connect with me on [linkedin](https://www.linkedin.com/in/michoel-rivkin-9a232126a/)
 
 <!--
