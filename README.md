@@ -4,7 +4,7 @@ Hi 👋 My name is Michoel Rivkin
 
 * 👨‍💻  Full Stack Software Engineer
 * 🌍  Based in Brooklyn, New York
-* 💻  Currently solving problems with Python and React
+* 💻  Currently solving problems with Spring Boot and React
 
 <!--
 **Michoel-89/Michoel-89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
